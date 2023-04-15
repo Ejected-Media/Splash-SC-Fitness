@@ -1,7 +1,7 @@
 // . hi
 
 //  _webapp labs foundation by ejected media
-// . . sc.fitness
+// . . sc.fitness - Splash App
 
 package main
 
